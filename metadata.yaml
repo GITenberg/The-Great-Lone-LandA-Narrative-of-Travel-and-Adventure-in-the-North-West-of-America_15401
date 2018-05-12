@@ -1,0 +1,33 @@
+_repo: The-Great-Lone-LandA-Narrative-of-Travel-and-Adventure-in-the-North-West-of-America_15401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, William Francis, Sir
+    aliases:
+    - Butler, W. F. (William Francis)
+    - Butler, William F. (William Francis), Sir
+    - Butler, Sir William Francis
+    birthdate: 1838
+    deathdate: 1910
+    gutenberg_agent_id: '6035'
+    url: http://www.gutenberg.org/2009/agents/6035
+    wikipedia: http://en.wikipedia.org/wiki/William_Francis_Butler
+description: ''
+gutenberg_issued: '2005-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcc 'F1001'
+title: 'The Great Lone Land
+
+  A Narrative of Travel and Adventure in the North-West of America'
+url: http://www.gutenberg.org/ebooks/15401
